@@ -1,0 +1,9 @@
+C:\Users\milad_000\Dropbox\Benchmarks\StreamCiphers\ChaCha\PowerTraces\ChaCha.jpg
+C:\Users\milad_000\Dropbox\Benchmarks\StreamCiphers\F-FCSR-16\PowerTraces\F-FCR-16.jpg
+C:\Users\milad_000\Dropbox\Benchmarks\StreamCiphers\F-FCSR-H\PowerTraces\F-FCSR-H.jpg
+C:\Users\milad_000\Dropbox\Benchmarks\StreamCiphers\Grain-v1\PowerTraces\Dec\Grain-v1-dec.jpg
+C:\Users\milad_000\Dropbox\Benchmarks\StreamCiphers\Grain-v1\PowerTraces\Enc\Grain-v1-enc.jpg
+C:\Users\milad_000\Dropbox\Benchmarks\StreamCiphers\Grain128\PowerTraces\Grain-128.jpg
+C:\Users\milad_000\Dropbox\Benchmarks\StreamCiphers\Grain128\PowerTraces\Dec\Grain128.jpg
+C:\Users\milad_000\Dropbox\Benchmarks\StreamCiphers\Grain128\PowerTraces\Enc\Grain128.jpg
+C:\Users\milad_000\Dropbox\Benchmarks\StreamCiphers\MICKEY v2\PowerTraces\Enc\MICKEY v2-enc.jpg
